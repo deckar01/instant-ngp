@@ -1,6 +1,7 @@
 /.vscode
 /.vs
 /build*
+/CMakeFiles
 /figures
 /out
 /results
@@ -11,4 +12,5 @@
 *.training
 __pycache__
 .DS_Store
+CMakeCache.txt
 imgui.ini
